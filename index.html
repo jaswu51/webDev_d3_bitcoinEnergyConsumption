@@ -21,16 +21,29 @@
 
 
   <!-- Create an element where the map will take place -->
-    <svg id="my_dataviz" width=800 height=600></svg>
-    <script src="js/main.js"></script>
-
-    <div class="row container-fluid p-5 bg-primary  text-white">
-
-      <h2>How to read our visualization?</h2>
-      <p>The world map enables the users to switch between the country-level total greenhouse gas emissions and the electricity consumption’s views. The darker the colors, the higher the values are. By clicking on each country, the area will be addressed. Later, more interaction design will be added. By then, clicking a country, its pie chart will show out.
-        For now, the bubble chart is a separate part to read. It reflects a more granular view of the year 2020’s energy consumption sources. Each pie chart is a country, or Bitcoin. The proportion shows how much the energy consumption comes from nuclear, fossil, or renewable sources. Note that not every country has access to nuclear resources. And Bitcoin surprisingly consumes very few traditional fossil sources. By dragging the Bitcoin’s pie chart, and overlapping other countries on top of it, you will find the bubbles auto-ligned. And the proportion differences are clear to see, since the color is set with opacity. 
-        </p>
-
+    <div class="container-fluid p-5 text-center">  
+      <svg id="my_dataviz" width=800 height=600></svg>
+      <script src="js/main.js"></script>
+    </div>
+    
+    <div class="row">
+      <div class="col container-fluid p-5 bg-primary  text-white">
+        <h2>How to read our visualization?</h2>
+        <p>The world map enables the users to switch between the country-level total greenhouse gas emissions and the electricity consumption’s views. 
+          The darker the colors, the higher the values are. 
+          By clicking on each country, the area will be addressed. 
+          Later, more interaction design will be added. 
+          By then, clicking a country, its pie chart will show out.
+          For now, the bubble chart is a separate part to read. 
+          It reflects a more granular view of the year 2020’s energy consumption sources. 
+          Each pie chart is a country, or Bitcoin. 
+          The proportion shows how much the energy consumption comes from nuclear, fossil, or renewable sources. 
+          Note that not every country has access to nuclear resources. 
+          And Bitcoin surprisingly consumes very few traditional fossil sources. 
+          By dragging the Bitcoin’s pie chart, and overlapping other countries on top of it, you will find the bubbles auto-ligned. 
+          And the proportion differences are clear to see, since the color is set with opacity. 
+          </p>
+      </div>
     </div>
 
     <div class="row">
@@ -38,7 +51,12 @@
       <div class="col container-fluid p-5 bg-info text-black">
 
         <h2>Why should we care about it?</h2>
-        <p>More than a decade on, it’s undeniable that Bitcoin has gone mainstream, however, the digital gold rush has come with a catch: massive electricity consumption. It is Bitcoin's proof of work consensus mechanism that makes it so energy-intensive. How does it affect our society? How huge a carbon emissions footprint Bitcoin has? It’s estimated that Bitcoin’s electricity consumption in 2022 exceeds the entire annual electricity consumption of Norway. How does Bitcoin compare with other countries globally? In our visualization, we will answer all above questions. 
+        <p>More than a decade on, it’s undeniable that Bitcoin has gone mainstream, however, the digital gold rush has come with a catch: massive electricity consumption.
+          It is Bitcoin's proof of work consensus mechanism that makes it so energy-intensive. 
+          How does it affect our society? How huge a carbon emissions footprint Bitcoin has? 
+          It’s estimated that Bitcoin’s electricity consumption in 2022 exceeds the entire annual electricity consumption of Norway. 
+          How does Bitcoin compare with other countries globally? 
+          In our visualization, we will answer all above questions. 
         </p>
 
       </div>
@@ -46,8 +64,11 @@
       <div class="col container-fluid p-5 bg-info text-black">
 
         <h2>What does our visualization show?</h2>
-        <p>Our data has two categories, the greenhouse gas emissions and the electricity consumption of both the country-level and Bitcoin. Moreover, we divide the electricity consumption by source, like nuclear, fossil, and renewable sources, to show a finer granularity of the data. 
-          Two parts of the visualization are presented. First is a world map, which compares the total greenhouse gas emissions and the electricity consumption globally. Second is a bubble chart, which is composed of different pie charts, and it is used mainly to compare the electricity consumption source proportions. 
+        <p>Our data has two categories, the greenhouse gas emissions and the electricity consumption of both the country-level and Bitcoin. 
+          Moreover, we divide the electricity consumption by source, like nuclear, fossil, and renewable sources, to show a finer granularity of the data. 
+          Two parts of the visualization are presented. 
+          First is a world map, which compares the total greenhouse gas emissions and the electricity consumption globally. 
+          Second is a bubble chart, which is composed of different pie charts, and it is used mainly to compare the electricity consumption source proportions. 
           </p>
       </div>
 
