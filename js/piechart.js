@@ -33,7 +33,7 @@ const data2020_nearBitcoin=data.filter(d => d.Year == "2020" & d.Energy_Source==
   const svg=d3.select("#piechart")
   .append("svg")
   .attr("class","col")
-    .attr("width", 500)
+    .attr("width", 600)
     .attr("height", 450);
 
 //     svg.append("g")
