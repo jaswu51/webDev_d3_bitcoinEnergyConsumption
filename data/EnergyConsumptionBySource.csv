@@ -1,0 +1,757 @@
+Year,Energy_Source,Country,Consumption_TWh
+2019,renewable,Bitcoin,26.35642152
+2019,nuclear,Bitcoin,1.80390496
+2019,fossil_fuels,Bitcoin,28.89102216
+2020,renewable,Bitcoin,28.1977083
+2020,nuclear,Bitcoin,2.75467284
+2020,fossil_fuels,Bitcoin,37.28401722
+2021,renewable,Bitcoin,29.87349792
+2021,nuclear,Bitcoin,9.28302165
+2021,fossil_fuels,Bitcoin,65.68393398
+2019,total,Bitcoin,57.05134864
+2020,total,Bitcoin,68.23639836
+2021,total,Bitcoin,104.8404536
+2019,total,World,25743.66282
+2019,total,Algeria,76.685
+2019,total,Argentina,132.4658624
+2019,total,Australia,249.5945858
+2019,total,Austria,68.8020788
+2019,total,Azerbaijan,24.60663
+2019,total,Bahrain,31.44425
+2019,total,Bangladesh,79.600877
+2019,total,Belarus,37.7155
+2019,total,Belgium,89.9314609
+2019,total,Bosnia and Herzegovina,16.65445
+2019,total,Brazil,601.4435827
+2019,total,Bulgaria,38.9149512
+2019,total,Canada,627.8128689
+2019,total,Chile,81.2601503
+2019,total,China,7151.198599
+2019,total,Colombia,78.1495599
+2019,total,Croatia,12.2922931
+2019,total,Cuba,19.52646
+2019,total,Czech Republic,79.1107549
+2019,total,Denmark,29.8828185
+2019,total,Dominican Republic,18.90698
+2019,total,Ecuador,32.47643
+2019,total,Egypt,182.98812
+2019,total,Estonia,6.8665502
+2019,total,Finland,67.0671163
+2019,total,France,544.3273038
+2019,total,Germany,578.1760987
+2019,total,Greece,45.7982992
+2019,total,Hong Kong,34.712
+2019,total,Hungary,32.5659378
+2019,total,Iceland,19.119793
+2019,total,India,1536.611495
+2019,total,Indonesia,280.13907
+2019,total,Iran,317.75639
+2019,total,Iraq,90.81454
+2019,total,Ireland,30.1220272
+2019,total,Israel,67.9665
+2019,total,Italy,264.3555922
+2019,total,Japan,986.6690624
+2019,total,Jordan,19.4744
+2019,total,Kazakhstan,102.30696
+2019,total,Kuwait,70.50336
+2019,total,Kyrgyzstan,14.84014
+2019,total,Lebanon,20.03462
+2019,total,Libya,31.69634
+2019,total,Malaysia,162.836
+2019,total,Mexico,318.0778573
+2019,total,Morocco,37.077883
+2019,total,Mozambique,17.9871
+2019,total,Netherlands,119.0127664
+2019,total,New Zealand,43.86866993
+2019,total,Nigeria,29.32448
+2019,total,North Korea,16.07632
+2019,total,Norway,131.9557672
+2019,total,Oman,36.03702
+2019,total,Pakistan,120.39552
+2019,total,Paraguay,48.93659
+2019,total,Peru,55.46937
+2019,total,Philippines,100.92099
+2019,total,Poland,149.1705333
+2019,total,Portugal,50.6305724
+2019,total,Puerto Rico,17.70314
+2019,total,Qatar,46.888984
+2019,total,Romania,54.857559
+2019,total,Russia,1060.40342
+2019,total,Saudi Arabia,362.4365
+2019,total,Serbia,33.5809988
+2019,total,Singapore,51.31338
+2019,total,Slovakia,26.2784132
+2019,total,Slovenia,14.9967828
+2019,total,South Africa,231.50374
+2019,total,South Korea,555.5580353
+2019,total,Spain,261.8728532
+2019,total,Sri Lanka,15.32842
+2019,total,Sweden,165.646854
+2019,total,Switzerland,65.2865348
+2019,total,Syria,17.10508
+2019,total,Taiwan,270.203504
+2019,total,Tajikistan,20.39389
+2019,total,Thailand,181.19062
+2019,total,Tunisia,20.53718
+2019,total,Turkey,296.9360804
+2019,total,Turkmenistan,21.1823
+2019,total,Ukraine,143.83374
+2019,total,United Arab Emirates,129.409
+2019,total,United Kingdom,313.5442484
+2019,total,United States,4162.812661
+2019,total,Uruguay,15.80266
+2019,total,Uzbekistan,60.151687
+2019,total,Venezuela,105.40402
+2019,total,Vietnam,214.07644
+2019,total,Zambia,15.999165
+2019,nuclear,World,2673.400858
+2019,nuclear,Algeria,0
+2019,nuclear,Argentina,7.9694683
+2019,nuclear,Australia,0
+2019,nuclear,Austria,0
+2019,nuclear,Azerbaijan,0
+2019,nuclear,Bahrain,0
+2019,nuclear,Bangladesh,0
+2019,nuclear,Belarus,0
+2019,nuclear,Belgium,41.3056
+2019,nuclear,Bosnia and Herzegovina,0
+2019,nuclear,Brazil,15.1610946
+2019,nuclear,Bulgaria,15.7124461
+2019,nuclear,Canada,95.4690001
+2019,nuclear,Chile,0
+2019,nuclear,China,348.35
+2019,nuclear,Colombia,0
+2019,nuclear,Croatia,0
+2019,nuclear,Cuba,0
+2019,nuclear,Czech Republic,28.5793509
+2019,nuclear,Denmark,0
+2019,nuclear,Dominican Republic,0
+2019,nuclear,Ecuador,0
+2019,nuclear,Egypt,0
+2019,nuclear,Estonia,0
+2019,nuclear,Finland,22.9149999
+2019,nuclear,France,379.4640001
+2019,nuclear,Germany,70.9920001
+2019,nuclear,Greece,0
+2019,nuclear,Hong Kong,0
+2019,nuclear,Hungary,15.402
+2019,nuclear,Iceland,0
+2019,nuclear,India,42.4494011
+2019,nuclear,Indonesia,0
+2019,nuclear,Iran,5.866
+2019,nuclear,Iraq,0
+2019,nuclear,Ireland,0
+2019,nuclear,Israel,0
+2019,nuclear,Italy,0
+2019,nuclear,Japan,63.8787884
+2019,nuclear,Jordan,0
+2019,nuclear,Kazakhstan,0
+2019,nuclear,Kuwait,0
+2019,nuclear,Kyrgyzstan,0
+2019,nuclear,Lebanon,0
+2019,nuclear,Libya,0
+2019,nuclear,Malaysia,0
+2019,nuclear,Mexico,10.8810001
+2019,nuclear,Morocco,0
+2019,nuclear,Mozambique,0
+2019,nuclear,Netherlands,3.700299
+2019,nuclear,New Zealand,0
+2019,nuclear,Nigeria,0
+2019,nuclear,North Korea,0
+2019,nuclear,Norway,0
+2019,nuclear,Oman,0
+2019,nuclear,Pakistan,9.066
+2019,nuclear,Paraguay,0
+2019,nuclear,Peru,0
+2019,nuclear,Philippines,0
+2019,nuclear,Poland,0
+2019,nuclear,Portugal,0
+2019,nuclear,Puerto Rico,0
+2019,nuclear,Qatar,0
+2019,nuclear,Romania,10.3454399
+2019,nuclear,Russia,195.535
+2019,nuclear,Saudi Arabia,0
+2019,nuclear,Serbia,0
+2019,nuclear,Singapore,0
+2019,nuclear,Slovakia,14.168
+2019,nuclear,Slovenia,5.5329814
+2019,nuclear,South Africa,13.603
+2019,nuclear,South Korea,138.6792038
+2019,nuclear,Spain,55.8239999
+2019,nuclear,Sri Lanka,0
+2019,nuclear,Sweden,64.3339999
+2019,nuclear,Switzerland,25.28
+2019,nuclear,Syria,0
+2019,nuclear,Taiwan,32.323432
+2019,nuclear,Tajikistan,0
+2019,nuclear,Thailand,0
+2019,nuclear,Tunisia,0
+2019,nuclear,Turkey,0
+2019,nuclear,Turkmenistan,0
+2019,nuclear,Ukraine,78.144
+2019,nuclear,United Arab Emirates,0
+2019,nuclear,United Kingdom,51.0320901
+2019,nuclear,United States,809.409262
+2019,nuclear,Uruguay,0
+2019,nuclear,Uzbekistan,0
+2019,nuclear,Venezuela,0
+2019,nuclear,Vietnam,0
+2019,nuclear,Zambia,0
+2019,fossil_fuels,World,16098.68209
+2019,fossil_fuels,Algeria,75.848
+2019,fossil_fuels,Argentina,89.9687632
+2019,fossil_fuels,Australia,196.1899926
+2019,fossil_fuels,Austria,15.525684
+2019,fossil_fuels,Azerbaijan,22.71228
+2019,fossil_fuels,Bahrain,31.435
+2019,fossil_fuels,Bangladesh,78.402
+2019,fossil_fuels,Belarus,36.67598
+2019,fossil_fuels,Belgium,28.2885609
+2019,fossil_fuels,Bosnia and Herzegovina,10.36726
+2019,fossil_fuels,Brazil,88.6869093
+2019,fossil_fuels,Bulgaria,16.9335501
+2019,fossil_fuels,Canada,109.0238685
+2019,fossil_fuels,Chile,43.4873463
+2019,fossil_fuels,China,4802.383276
+2019,fossil_fuels,Colombia,23.4070763
+2019,fossil_fuels,Croatia,3.9686133
+2019,fossil_fuels,Cuba,18.62046
+2019,fossil_fuels,Czech Republic,40.7853319
+2019,fossil_fuels,Denmark,6.0104994
+2019,fossil_fuels,Dominican Republic,16.84198
+2019,fossil_fuels,Ecuador,7.47908
+2019,fossil_fuels,Egypt,165.43812
+2019,fossil_fuels,Estonia,4.6600503
+2019,fossil_fuels,Finland,11.9366382
+2019,fossil_fuels,France,50.4751223
+2019,fossil_fuels,Germany,264.1422421
+2019,fossil_fuels,Greece,29.4856253
+2019,fossil_fuels,Hong Kong,34.587
+2019,fossil_fuels,Hungary,12.1649381
+2019,fossil_fuels,Iceland,0.002661
+2019,fossil_fuels,India,1180.970059
+2019,fossil_fuels,Indonesia,231.07268
+2019,fossil_fuels,Iran,280.80714
+2019,fossil_fuels,Iraq,88.30454
+2019,fossil_fuels,Ireland,18.2712922
+2019,fossil_fuels,Israel,64.6673
+2019,fossil_fuels,Italy,168.0210014
+2019,fossil_fuels,Japan,741.8437459
+2019,fossil_fuels,Jordan,16.4594
+2019,fossil_fuels,Kazakhstan,90.92338
+2019,fossil_fuels,Kuwait,70.44736
+2019,fossil_fuels,Kyrgyzstan,1.13458
+2019,fossil_fuels,Lebanon,19.24462
+2019,fossil_fuels,Libya,31.68834
+2019,fossil_fuels,Malaysia,133.752
+2019,fossil_fuels,Mexico,252.5988576
+2019,fossil_fuels,Morocco,30.46916
+2019,fossil_fuels,Mozambique,3.6801
+2019,fossil_fuels,Netherlands,90.7339033
+2019,fossil_fuels,New Zealand,7.539387021
+2019,fossil_fuels,Nigeria,23.15502
+2019,fossil_fuels,North Korea,2.40922
+2019,fossil_fuels,Norway,2.6930583
+2019,fossil_fuels,Oman,36.03302
+2019,fossil_fuels,Pakistan,70.69552
+2019,fossil_fuels,Paraguay,0.00188
+2019,fossil_fuels,Peru,21.27408
+2019,fossil_fuels,Philippines,78.95624
+2019,fossil_fuels,Poland,124.3702605
+2019,fossil_fuels,Portugal,23.6342803
+2019,fossil_fuels,Puerto Rico,16.8
+2019,fossil_fuels,Qatar,46.88062
+2019,fossil_fuels,Romania,20.0745332
+2019,fossil_fuels,Russia,668.43118
+2019,fossil_fuels,Saudi Arabia,361.9987
+2019,fossil_fuels,Serbia,23.4240657
+2019,fossil_fuels,Singapore,49.46938
+2019,fossil_fuels,Slovakia,5.5885832
+2019,fossil_fuels,Slovenia,4.5345996
+2019,fossil_fuels,South Africa,208.41774
+2019,fossil_fuels,South Korea,387.5087252
+2019,fossil_fuels,Spain,107.2766033
+2019,fossil_fuels,Sri Lanka,10.23942
+2019,fossil_fuels,Sweden,1.6250239
+2019,fossil_fuels,Switzerland,0.604944
+2019,fossil_fuels,Syria,15.82208
+2019,fossil_fuels,Taiwan,223.4025645
+2019,fossil_fuels,Tajikistan,1.41658
+2019,fossil_fuels,Thailand,147.51796
+2019,fossil_fuels,Tunisia,19.72684
+2019,fossil_fuels,Turkey,166.1924564
+2019,fossil_fuels,Turkmenistan,21.182
+2019,fossil_fuels,Ukraine,54.30944
+2019,fossil_fuels,United Arab Emirates,125.852
+2019,fossil_fuels,United Kingdom,138.9076502
+2019,fossil_fuels,United States,2581.702822
+2019,fossil_fuels,Uruguay,0.27166
+2019,fossil_fuels,Uzbekistan,53.64486
+2019,fossil_fuels,Venezuela,33.30702
+2019,fossil_fuels,Vietnam,153.71444
+2019,fossil_fuels,Zambia,2.13286
+2019,renewable,World,7008.542438
+2019,renewable,Algeria,0.837
+2019,renewable,Argentina,34.7236309
+2019,renewable,Australia,53.6605932
+2019,renewable,Austria,54.7633948
+2019,renewable,Azerbaijan,1.89435
+2019,renewable,Bahrain,0.00925
+2019,renewable,Bangladesh,1.198877
+2019,renewable,Belarus,1.03952
+2019,renewable,Belgium,20.6203
+2019,renewable,Bosnia and Herzegovina,6.31219
+2019,renewable,Brazil,497.5955788
+2019,renewable,Bulgaria,6.465955
+2019,renewable,Canada,423.4190003
+2019,renewable,Chile,37.772804
+2019,renewable,China,2011.212323
+2019,renewable,Colombia,54.7424836
+2019,renewable,Croatia,8.3686798
+2019,renewable,Cuba,0.906
+2019,renewable,Czech Republic,10.0870721
+2019,renewable,Denmark,23.8723191
+2019,renewable,Dominican Republic,2.065
+2019,renewable,Ecuador,24.99735
+2019,renewable,Egypt,17.55
+2019,renewable,Estonia,2.2064999
+2019,renewable,Finland,32.2154782
+2019,renewable,France,116.1261814
+2019,renewable,Germany,245.3919996
+2019,renewable,Greece,16.3346568
+2019,renewable,Hong Kong,0.125
+2019,renewable,Hungary,4.9989997
+2019,renewable,Iceland,19.117132
+2019,renewable,India,313.1920344
+2019,renewable,Indonesia,49.06639
+2019,renewable,Iran,31.08325
+2019,renewable,Iraq,2.51
+2019,renewable,Ireland,12.083735
+2019,renewable,Israel,3.2992
+2019,renewable,Italy,96.9688238
+2019,renewable,Japan,184.2285281
+2019,renewable,Jordan,3.015
+2019,renewable,Kazakhstan,11.38358
+2019,renewable,Kuwait,0.056
+2019,renewable,Kyrgyzstan,13.70556
+2019,renewable,Lebanon,0.79
+2019,renewable,Libya,0.008
+2019,renewable,Malaysia,29.084
+2019,renewable,Mexico,54.5979996
+2019,renewable,Morocco,6.744723
+2019,renewable,Mozambique,14.307
+2019,renewable,Netherlands,24.5785641
+2019,renewable,New Zealand,36.32928291
+2019,renewable,Nigeria,6.16946
+2019,renewable,North Korea,13.6671
+2019,renewable,Norway,129.640709
+2019,renewable,Oman,0.004
+2019,renewable,Pakistan,40.634
+2019,renewable,Paraguay,48.93471
+2019,renewable,Peru,34.19529
+2019,renewable,Philippines,21.96475
+2019,renewable,Poland,25.126435
+2019,renewable,Portugal,27.3978569
+2019,renewable,Puerto Rico,0.90314
+2019,renewable,Qatar,0.008364
+2019,renewable,Romania,24.5655859
+2019,renewable,Russia,197.15424
+2019,renewable,Saudi Arabia,0.4378
+2019,renewable,Serbia,10.5129331
+2019,renewable,Singapore,1.844
+2019,renewable,Slovakia,6.62283
+2019,renewable,Slovenia,4.9978298
+2019,renewable,South Africa,11.052
+2019,renewable,South Korea,30.4993402
+2019,renewable,Spain,99.56925
+2019,renewable,Sri Lanka,5.089
+2019,renewable,Sweden,99.6978302
+2019,renewable,Switzerland,40.6125598
+2019,renewable,Syria,1.283
+2019,renewable,Taiwan,15.25458846
+2019,renewable,Tajikistan,18.97731
+2019,renewable,Thailand,33.67266
+2019,renewable,Tunisia,0.81034
+2019,renewable,Turkey,130.743624
+2019,renewable,Turkmenistan,3.00E-04
+2019,renewable,Ukraine,11.8683
+2019,renewable,United Arab Emirates,3.557
+2019,renewable,United Kingdom,124.208547
+2019,renewable,United States,776.961321
+2019,renewable,Uruguay,15.531
+2019,renewable,Uzbekistan,6.506827
+2019,renewable,Venezuela,72.097
+2019,renewable,Vietnam,60.362
+2019,renewable,Zambia,13.866305
+2020,total,World,25608.19708
+2020,total,Algeria,72.78991277
+2020,total,Argentina,138.0198813
+2020,total,Australia,250.6580269
+2020,total,Austria,68.100601
+2020,total,Azerbaijan,24.37044
+2020,total,Bahrain,29.85563729
+2020,total,Bangladesh,75.47871973
+2020,total,Belarus,36.0619
+2020,total,Belgium,85.701887
+2020,total,Bosnia and Herzegovina,15.69052
+2020,total,Brazil,603.1553
+2020,total,Bulgaria,35.7841652
+2020,total,Canada,623.9858667
+2020,total,Chile,80.8660861
+2020,total,China,7462.987888
+2020,total,Colombia,75.7309512
+2020,total,Croatia,12.8324588
+2020,total,Cuba,18.51044841
+2020,total,Czech Republic,73.9507328
+2020,total,Denmark,28.9196916
+2020,total,Dominican Republic,17.12284644
+2020,total,Ecuador,32.13185
+2020,total,Egypt,157.97
+2020,total,Estonia,5.8752408
+2020,total,Finland,67.5709779
+2020,total,France,506.4986227
+2020,total,Germany,545.5231373
+2020,total,Greece,43.0839083
+2020,total,Hong Kong,33.1059
+2020,total,Hungary,33.3204209
+2020,total,Iceland,18.778694
+2020,total,India,1506.447594
+2020,total,Indonesia,272.9434
+2020,total,Iran,304.3216
+2020,total,Iraq,85.6989437
+2020,total,Ireland,31.2904099
+2020,total,Israel,68.61012
+2020,total,Italy,273.0329509
+2020,total,Japan,942.2344357
+2020,total,Jordan,18.877
+2020,total,Kazakhstan,97.83743687
+2020,total,Kuwait,66.94220184
+2020,total,Kyrgyzstan,16.174
+2020,total,Lebanon,19.37706559
+2020,total,Libya,30.09492439
+2020,total,Malaysia,145.1926513
+2020,total,Mexico,325.5056802
+2020,total,Morocco,35.36462039
+2020,total,Mozambique,17.80412088
+2020,total,Netherlands,120.0576141
+2020,total,New Zealand,43.24423618
+2020,total,Nigeria,28.15430793
+2020,total,North Korea,14.50456662
+2020,total,Norway,153.9079342
+2020,total,Oman,34.21603977
+2020,total,Pakistan,117.082
+2020,total,Paraguay,49.34192
+2020,total,Peru,52.41496392
+2020,total,Philippines,97.46
+2020,total,Poland,144.4291258
+2020,total,Portugal,50.7589174
+2020,total,Puerto Rico,17.59771
+2020,total,Qatar,44.51980478
+2020,total,Romania,51.6451741
+2020,total,Russia,1026.65506
+2020,total,Saudi Arabia,344.2093776
+2020,total,Serbia,34.3450182
+2020,total,Singapore,50.31612
+2020,total,Slovakia,26.5198628
+2020,total,Slovenia,15.9986798
+2020,total,South Africa,218.232991
+2020,total,South Korea,553.8690845
+2020,total,Spain,251.1610323
+2020,total,Sri Lanka,15.19995626
+2020,total,Sweden,158.8517017
+2020,total,Switzerland,66.0905137
+2020,total,Syria,15.80548854
+2020,total,Taiwan,276.0353654
+2020,total,Tajikistan,18.62
+2020,total,Thailand,176.69888
+2020,total,Tunisia,19.53991591
+2020,total,Turkey,324.8134043
+2020,total,Turkmenistan,20.11153732
+2020,total,Ukraine,138.97782
+2020,total,United Arab Emirates,124.8408891
+2020,total,United Kingdom,303.4642607
+2020,total,United States,4048.657847
+2020,total,Uruguay,12.89493127
+2020,total,Uzbekistan,57.84066723
+2020,total,Venezuela,103.7218021
+2020,total,Vietnam,206.3482608
+2020,total,Zambia,15.982285
+2020,nuclear,World,2591.356399
+2020,nuclear,Algeria,0
+2020,nuclear,Argentina,10.0644147
+2020,nuclear,Australia,0
+2020,nuclear,Austria,0
+2020,nuclear,Azerbaijan,0
+2020,nuclear,Bahrain,0
+2020,nuclear,Bangladesh,0
+2020,nuclear,Belarus,0.338
+2020,nuclear,Belgium,32.6058
+2020,nuclear,Bosnia and Herzegovina,0
+2020,nuclear,Brazil,13.2094422
+2020,nuclear,Bulgaria,15.7872682
+2020,nuclear,Canada,92.6516066
+2020,nuclear,Chile,0
+2020,nuclear,China,366.25
+2020,nuclear,Colombia,0
+2020,nuclear,Croatia,0
+2020,nuclear,Cuba,0
+2020,nuclear,Czech Republic,28.369685
+2020,nuclear,Denmark,0
+2020,nuclear,Dominican Republic,0
+2020,nuclear,Ecuador,0
+2020,nuclear,Egypt,0
+2020,nuclear,Estonia,0
+2020,nuclear,Finland,22.3540001
+2020,nuclear,France,335.4142381
+2020,nuclear,Germany,60.9139999
+2020,nuclear,Greece,0
+2020,nuclear,Hong Kong,0
+2020,nuclear,Hungary,15.172
+2020,nuclear,Iceland,0
+2020,nuclear,India,42.0632123
+2020,nuclear,Indonesia,0
+2020,nuclear,Iran,5.792
+2020,nuclear,Iraq,0
+2020,nuclear,Ireland,0
+2020,nuclear,Israel,0
+2020,nuclear,Italy,0
+2020,nuclear,Japan,41.8631392
+2020,nuclear,Jordan,0
+2020,nuclear,Kazakhstan,0
+2020,nuclear,Kuwait,0
+2020,nuclear,Kyrgyzstan,0
+2020,nuclear,Lebanon,0
+2020,nuclear,Libya,0
+2020,nuclear,Malaysia,0
+2020,nuclear,Mexico,10.8663478
+2020,nuclear,Morocco,0
+2020,nuclear,Mozambique,0
+2020,nuclear,Netherlands,3.864924
+2020,nuclear,New Zealand,0
+2020,nuclear,Nigeria,0
+2020,nuclear,North Korea,0
+2020,nuclear,Norway,0
+2020,nuclear,Oman,0
+2020,nuclear,Pakistan,9.64
+2020,nuclear,Paraguay,0
+2020,nuclear,Peru,0
+2020,nuclear,Philippines,0
+2020,nuclear,Poland,0
+2020,nuclear,Portugal,0
+2020,nuclear,Puerto Rico,0
+2020,nuclear,Qatar,0
+2020,nuclear,Romania,10.5567029
+2020,nuclear,Russia,215.745
+2020,nuclear,Saudi Arabia,0
+2020,nuclear,Serbia,0
+2020,nuclear,Singapore,0
+2020,nuclear,Slovakia,14.2810001
+2020,nuclear,Slovenia,6.0408459
+2020,nuclear,South Africa,11.616
+2020,nuclear,South Korea,152.583936
+2020,nuclear,Spain,55.7570001
+2020,nuclear,Sri Lanka,0
+2020,nuclear,Sweden,47.2626974
+2020,nuclear,Switzerland,22.9900001
+2020,nuclear,Syria,0
+2020,nuclear,Taiwan,31.44024503
+2020,nuclear,Tajikistan,0
+2020,nuclear,Thailand,0
+2020,nuclear,Tunisia,0
+2020,nuclear,Turkey,0
+2020,nuclear,Turkmenistan,0
+2020,nuclear,Ukraine,76.202
+2020,nuclear,United Arab Emirates,1.562
+2020,nuclear,United Kingdom,45.6680299
+2020,nuclear,United States,789.878863
+2020,nuclear,Uruguay,0
+2020,nuclear,Uzbekistan,0
+2020,nuclear,Venezuela,0
+2020,nuclear,Vietnam,0
+2020,nuclear,Zambia,0
+2020,fossil_fuels,World,15648.22572
+2020,fossil_fuels,Algeria,72.01491277
+2020,fossil_fuels,Argentina,91.118163
+2020,fossil_fuels,Australia,186.7484347
+2020,fossil_fuels,Austria,13.1802657
+2020,fossil_fuels,Azerbaijan,22.96044
+2020,fossil_fuels,Bahrain,29.84638729
+2020,fossil_fuels,Bangladesh,74.43984273
+2020,fossil_fuels,Belarus,34.5309
+2020,fossil_fuels,Belgium,28.9475459
+2020,fossil_fuels,Bosnia and Herzegovina,10.81752
+2020,fossil_fuels,Brazil,78.9670078
+2020,fossil_fuels,Bulgaria,13.7215124
+2020,fossil_fuels,Canada,100.3356311
+2020,fossil_fuels,Chile,41.3734488
+2020,fossil_fuels,China,4926.036507
+2020,fossil_fuels,Colombia,26.3560402
+2020,fossil_fuels,Croatia,4.3376589
+2020,fossil_fuels,Cuba,17.67944841
+2020,fossil_fuels,Czech Republic,35.5644289
+2020,fossil_fuels,Denmark,4.8797108
+2020,fossil_fuels,Dominican Republic,15.99084644
+2020,fossil_fuels,Ecuador,6.75585
+2020,fossil_fuels,Egypt,140.08
+2020,fossil_fuels,Estonia,3.3329721
+2020,fossil_fuels,Finland,9.2898278
+2020,fossil_fuels,France,45.4579358
+2020,fossil_fuels,Germany,232.8862875
+2020,fossil_fuels,Greece,25.0872158
+2020,fossil_fuels,Hong Kong,32.9799
+2020,fossil_fuels,Hungary,12.281421
+2020,fossil_fuels,Iceland,0.0030668
+2020,fossil_fuels,India,1137.180433
+2020,fossil_fuels,Indonesia,224.5754
+2020,fossil_fuels,Iran,269.8176
+2020,fossil_fuels,Iraq,83.8419437
+2020,fossil_fuels,Ireland,17.7947102
+2020,fossil_fuels,Israel,64.20012
+2020,fossil_fuels,Italy,154.6275989
+2020,fossil_fuels,Japan,724.9216559
+2020,fossil_fuels,Jordan,15.768
+2020,fossil_fuels,Kazakhstan,86.32843687
+2020,fossil_fuels,Kuwait,66.88720184
+2020,fossil_fuels,Kyrgyzstan,1.374
+2020,fossil_fuels,Lebanon,18.27206559
+2020,fossil_fuels,Libya,30.08692439
+2020,fossil_fuels,Malaysia,126.9926513
+2020,fossil_fuels,Mexico,249.858747
+2020,fossil_fuels,Morocco,28.92935739
+2020,fossil_fuels,Mozambique,3.49412088
+2020,fossil_fuels,Netherlands,82.4153048
+2020,fossil_fuels,New Zealand,8.110432123
+2020,fossil_fuels,Nigeria,21.98484793
+2020,fossil_fuels,North Korea,2.287466619
+2020,fossil_fuels,Norway,2.138668
+2020,fossil_fuels,Oman,34.21203977
+2020,fossil_fuels,Pakistan,64.662
+2020,fossil_fuels,Paraguay,0.00192
+2020,fossil_fuels,Peru,20.19896392
+2020,fossil_fuels,Philippines,75.629
+2020,fossil_fuels,Poland,116.5150676
+2020,fossil_fuels,Portugal,20.9524256
+2020,fossil_fuels,Puerto Rico,16.688
+2020,fossil_fuels,Qatar,44.51144078
+2020,fossil_fuels,Romania,16.7553033
+2020,fossil_fuels,Russia,609.96506
+2020,fossil_fuels,Saudi Arabia,343.7045776
+2020,fossil_fuels,Serbia,24.4386313
+2020,fossil_fuels,Singapore,48.54912
+2020,fossil_fuels,Slovakia,5.5548627
+2020,fossil_fuels,Slovenia,4.4686304
+2020,fossil_fuels,South Africa,197.57296
+2020,fossil_fuels,South Korea,364.2636725
+2020,fossil_fuels,Spain,84.2270325
+2020,fossil_fuels,Sri Lanka,9.721956257
+2020,fossil_fuels,Sweden,0.7047315
+2020,fossil_fuels,Switzerland,0.6072445
+2020,fossil_fuels,Syria,15.02248854
+2020,fossil_fuels,Taiwan,230.2213012
+2020,fossil_fuels,Tajikistan,1.62
+2020,fossil_fuels,Thailand,147.15888
+2020,fossil_fuels,Tunisia,18.72991591
+2020,fossil_fuels,Turkey,200.7281454
+2020,fossil_fuels,Turkmenistan,20.11153732
+2020,fossil_fuels,Ukraine,51.26102
+2020,fossil_fuels,United Arab Emirates,119.4918891
+2020,fossil_fuels,United Kingdom,118.0243245
+2020,fossil_fuels,United States,2426.719259
+2020,fossil_fuels,Uruguay,0.2579312731
+2020,fossil_fuels,Uzbekistan,50.93384023
+2020,fossil_fuels,Venezuela,31.62380208
+2020,fossil_fuels,Vietnam,145.9462608
+2020,fossil_fuels,Zambia,2.08398
+2020,renewable,World,7406.292825
+2020,renewable,Algeria,0.775
+2020,renewable,Argentina,36.9763636
+2020,renewable,Australia,64.1678894
+2020,renewable,Austria,56.3767453
+2020,renewable,Azerbaijan,1.41
+2020,renewable,Bahrain,0.00925
+2020,renewable,Bangladesh,1.038877
+2020,renewable,Belarus,1.193
+2020,renewable,Belgium,24.4967003
+2020,renewable,Bosnia and Herzegovina,4.898
+2020,renewable,Brazil,510.97885
+2020,renewable,Bulgaria,6.4753846
+2020,renewable,Canada,431.099947
+2020,renewable,Chile,39.4926373
+2020,renewable,China,2182.078382
+2020,renewable,Colombia,49.374911
+2020,renewable,Croatia,8.5347999
+2020,renewable,Cuba,0.831
+2020,renewable,Czech Republic,10.4083129
+2020,renewable,Denmark,24.0399808
+2020,renewable,Dominican Republic,1.132
+2020,renewable,Ecuador,25.376
+2020,renewable,Egypt,17.89
+2020,renewable,Estonia,2.5422687
+2020,renewable,Finland,35.92715
+2020,renewable,France,127.3182018
+2020,renewable,Germany,254.1450002
+2020,renewable,Greece,18.0794332
+2020,renewable,Hong Kong,0.126
+2020,renewable,Hungary,5.8669999
+2020,renewable,Iceland,18.7756272
+2020,renewable,India,327.2039483
+2020,renewable,Indonesia,48.368
+2020,renewable,Iran,28.712
+2020,renewable,Iraq,1.857
+2020,renewable,Ireland,13.7399198
+2020,renewable,Israel,4.41
+2020,renewable,Italy,119.1298619
+2020,renewable,Japan,178.7932584
+2020,renewable,Jordan,3.109
+2020,renewable,Kazakhstan,11.509
+2020,renewable,Kuwait,0.055
+2020,renewable,Kyrgyzstan,14.8
+2020,renewable,Lebanon,1.105
+2020,renewable,Libya,0.008
+2020,renewable,Malaysia,18.2
+2020,renewable,Mexico,64.7805854
+2020,renewable,Morocco,6.535263
+2020,renewable,Mozambique,14.31
+2020,renewable,Netherlands,33.7773853
+2020,renewable,New Zealand,35.13380406
+2020,renewable,Nigeria,6.16946
+2020,renewable,North Korea,12.2171
+2020,renewable,Norway,152.0547862
+2020,renewable,Oman,0.004
+2020,renewable,Pakistan,42.78
+2020,renewable,Paraguay,49.34
+2020,renewable,Peru,32.216
+2020,renewable,Philippines,21.831
+2020,renewable,Poland,28.276422
+2020,renewable,Portugal,30.2438732
+2020,renewable,Puerto Rico,0.90971
+2020,renewable,Qatar,0.008364
+2020,renewable,Romania,24.4331679
+2020,renewable,Russia,201.558
+2020,renewable,Saudi Arabia,0.5048
+2020,renewable,Serbia,10.2063869
+2020,renewable,Singapore,1.767
+2020,renewable,Slovakia,6.789
+2020,renewable,Slovenia,5.5894282
+2020,renewable,South Africa,10.675031
+2020,renewable,South Korea,38.101467
+2020,renewable,Spain,112.3059998
+2020,renewable,Sri Lanka,5.478
+2020,renewable,Sweden,110.8983997
+2020,renewable,Switzerland,43.7997561
+2020,renewable,Syria,0.783
+2020,renewable,Taiwan,15.15769921
+2020,renewable,Tajikistan,17
+2020,renewable,Thailand,29.54
+2020,renewable,Tunisia,0.81
+2020,renewable,Turkey,124.0852589
+2020,renewable,Turkmenistan,0
+2020,renewable,Ukraine,11.5148
+2020,renewable,United Arab Emirates,3.787
+2020,renewable,United Kingdom,140.2410272
+2020,renewable,United States,837.3809303
+2020,renewable,Uruguay,12.637
+2020,renewable,Uzbekistan,6.906827
+2020,renewable,Venezuela,72.098
+2020,renewable,Vietnam,60.402
+2020,renewable,Zambia,13.898305

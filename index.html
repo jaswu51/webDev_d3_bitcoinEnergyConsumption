@@ -19,14 +19,24 @@
       <p>Is Bitcoin Environmentally Friendly? </p>
     </div>
 
+    <div class="row container-fluid p-5">
 
   <!-- Create an element where the map will take place -->
-    <div class="container-fluid p-5 text-center">  
-      <svg id="my_dataviz" width=800 height=600></svg>
-      <script src="js/main.js"></script>
+    <div id = "map" class="col">  
+      <svg id="my_dataviz" width=500 height=450></svg>
+      <!-- <svg id="my_dataviz" class="col-sm-6"></svg> -->
+      <script src="js/map.js"></script>
     </div>
 
-    <div class="row">
+    <div id="piechart" class="col">
+      <script src="https://d3js.org/d3.v7.min.js"></script>
+      <script src="http://d3js.org/topojson.v1.min.js"></script>
+      <script src="js/piechart.js"></script>
+    </div>
+
+  </div>
+
+      <div class="row">
       <div class="col container-fluid p-5 bg-primary  text-white">
         <h2>How to read our visualization?</h2>
         <p>The world map enables the users to switch between the country-level total greenhouse gas emissions and the electricity consumption’s views. 
