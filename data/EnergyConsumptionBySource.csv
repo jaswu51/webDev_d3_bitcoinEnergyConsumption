@@ -97,8 +97,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2019,total,Turkmenistan,21.1823
 2019,total,Ukraine,143.83374
 2019,total,UnitedArabEmirates,129.409
-2019,total,UnitedKingdom,313.5442484
-2019,total,UnitedStates,4162.812661
+2019,total,UK,313.5442484
+2019,total,US,4162.812661
 2019,total,Uruguay,15.80266
 2019,total,Uzbekistan,60.151687
 2019,total,Venezuela,105.40402
@@ -190,8 +190,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2019,nuclear,Turkmenistan,0
 2019,nuclear,Ukraine,78.144
 2019,nuclear,UnitedArabEmirates,0
-2019,nuclear,UnitedKingdom,51.0320901
-2019,nuclear,UnitedStates,809.409262
+2019,nuclear,UK,51.0320901
+2019,nuclear,US,809.409262
 2019,nuclear,Uruguay,0
 2019,nuclear,Uzbekistan,0
 2019,nuclear,Venezuela,0
@@ -283,8 +283,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2019,fossil_fuels,Turkmenistan,21.182
 2019,fossil_fuels,Ukraine,54.30944
 2019,fossil_fuels,UnitedArabEmirates,125.852
-2019,fossil_fuels,UnitedKingdom,138.9076502
-2019,fossil_fuels,UnitedStates,2581.702822
+2019,fossil_fuels,UK,138.9076502
+2019,fossil_fuels,US,2581.702822
 2019,fossil_fuels,Uruguay,0.27166
 2019,fossil_fuels,Uzbekistan,53.64486
 2019,fossil_fuels,Venezuela,33.30702
@@ -376,8 +376,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2019,renewable,Turkmenistan,3.00E-04
 2019,renewable,Ukraine,11.8683
 2019,renewable,UnitedArabEmirates,3.557
-2019,renewable,UnitedKingdom,124.208547
-2019,renewable,UnitedStates,776.961321
+2019,renewable,UK,124.208547
+2019,renewable,US,776.961321
 2019,renewable,Uruguay,15.531
 2019,renewable,Uzbekistan,6.506827
 2019,renewable,Venezuela,72.097
@@ -469,8 +469,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2020,total,Turkmenistan,20.11153732
 2020,total,Ukraine,138.97782
 2020,total,UnitedArabEmirates,124.8408891
-2020,total,UnitedKingdom,303.4642607
-2020,total,UnitedStates,4048.657847
+2020,total,UK,303.4642607
+2020,total,US,4048.657847
 2020,total,Uruguay,12.89493127
 2020,total,Uzbekistan,57.84066723
 2020,total,Venezuela,103.7218021
@@ -562,8 +562,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2020,nuclear,Turkmenistan,0
 2020,nuclear,Ukraine,76.202
 2020,nuclear,UnitedArabEmirates,1.562
-2020,nuclear,UnitedKingdom,45.6680299
-2020,nuclear,UnitedStates,789.878863
+2020,nuclear,UK,45.6680299
+2020,nuclear,US,789.878863
 2020,nuclear,Uruguay,0
 2020,nuclear,Uzbekistan,0
 2020,nuclear,Venezuela,0
@@ -655,8 +655,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2020,fossil_fuels,Turkmenistan,20.11153732
 2020,fossil_fuels,Ukraine,51.26102
 2020,fossil_fuels,UnitedArabEmirates,119.4918891
-2020,fossil_fuels,UnitedKingdom,118.0243245
-2020,fossil_fuels,UnitedStates,2426.719259
+2020,fossil_fuels,UK,118.0243245
+2020,fossil_fuels,US,2426.719259
 2020,fossil_fuels,Uruguay,0.2579312731
 2020,fossil_fuels,Uzbekistan,50.93384023
 2020,fossil_fuels,Venezuela,31.62380208
@@ -748,8 +748,8 @@ Year,Energy_Source,Country,Consumption_TWh
 2020,renewable,Turkmenistan,0
 2020,renewable,Ukraine,11.5148
 2020,renewable,UnitedArabEmirates,3.787
-2020,renewable,UnitedKingdom,140.2410272
-2020,renewable,UnitedStates,837.3809303
+2020,renewable,UK,140.2410272
+2020,renewable,US,837.3809303
 2020,renewable,Uruguay,12.637
 2020,renewable,Uzbekistan,6.906827
 2020,renewable,Venezuela,72.098
