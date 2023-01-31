@@ -35,6 +35,23 @@ const createPieChart = (dataElec,dataCO2,lowbound,upbound) => {
   const dataElec2019 = dataElec.filter(d => d.Year == "2019" & d.Energy_Source!='total');
   const dataElec2019_bitcoin=dataElec.filter(d => d.Year == "2019" & d.Energy_Source!='total' & d.Country=="Bitcoin");
   const dataElec2019_bitcoinConsumption=dataElec.filter(d => d.Year == "2019" & d.Energy_Source=='total' & d.Country=="Bitcoin").map(d=>d.Consumption_TWh);
+  if (upbound==""){
+    dataElec2019_nearBitcoin=
+  dataElec.filter(d => d.Year == "2019" & d.Country!="Bitcoin" & d.Energy_Source=='total' 
+  & (
+  (d.Consumption_TWh>(dataElec2019_bitcoinConsumption[0]*parseFloat(lowbound)))
+  ))
+  }
+  
+  if (lowbound==""){
+    dataElec2019_nearBitcoin=
+  dataElec.filter(d => d.Year == "2019" & d.Country!="Bitcoin" & d.Energy_Source=='total' 
+  & (
+  (d.Consumption_TWh<(dataElec2019_bitcoinConsumption[0]*parseFloat(upbound))) 
+  ))
+  }
+
+  if (upbound!="" & lowbound!=""){
   if(upbound>lowbound){
   dataElec2019_nearBitcoin=
   dataElec.filter(d => d.Year == "2019" & d.Country!="Bitcoin" & d.Energy_Source=='total' 
@@ -48,7 +65,7 @@ const createPieChart = (dataElec,dataCO2,lowbound,upbound) => {
   & (
   (d.Consumption_TWh<(dataElec2019_bitcoinConsumption[0]*parseFloat(upbound))) ||
   (d.Consumption_TWh>(dataElec2019_bitcoinConsumption[0]*parseFloat(lowbound)))
-  ))}
+  ))}}
   ;
 
   const country_list=  Array.from(d3.group(dataElec2019_nearBitcoin, d => d.Country).keys());
