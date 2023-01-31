@@ -33,6 +33,7 @@ d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/w
 // d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world_population.csv", function(d) {
 //     data.set(d.code, +d.pop)
 d3.csv("https://raw.githubusercontent.com/Anthem9/bitcoin_society/main/data/emissions.csv", function(d) {
+  console.log(d);
 if (selected_year==2019){data.set(d.code, +d.d2019);};
 if (selected_year==2018){data.set(d.code, +d.d2018);};
 if (selected_year==2017){data.set(d.code, +d.d2017);};

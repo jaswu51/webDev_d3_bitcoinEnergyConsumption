@@ -14,7 +14,13 @@
     top: 450px; /*[wherever you want it]*/
     left: 450px; /*[wherever you want it]*/
   }
-  div.mappos{
+  div.mappos1{
+    position:absolute;
+    top: 350px; /*[wherever you want it]*/
+    left: 50px; /*[wherever you want it]*/
+  }
+
+  div.mappos2{
     position:absolute;
     top: 550px; /*[wherever you want it]*/
     left: -400px; /*[wherever you want it]*/
@@ -44,6 +50,12 @@
     position:absolute;
     top: 2200px; /*[wherever you want it]*/
     left: 0px; /*[wherever you want it]*/
+  }
+
+  div.note{
+    position:absolute;
+    top: 2100px; /*[wherever you want it]*/
+    left: 50px; /*[wherever you want it]*/
   }
 </style>
   <body>
@@ -89,18 +101,16 @@
     </div>
 
 
-    <div class="row container-fluid p-5">
     <div  id="map-box" style="width: 900px; ;height: 800px ;">
-      <div style="width: 1400px; ;height: 100px ;"><h3>Global Greenhouse Gas Emissions (MtCO2e)</h3></div>
-      <div id="map" class="mappos" >  
+      <div style="width: 1400px; ;height: 100px ;" class="mappos1" ><h3>Global Greenhouse Gas Emissions (MtCO2e)</h3></div>
+      <div id="map" class="mappos2" >  
         <svg id="map-svg"   ></svg>
         <script src="https://d3js.org/d3.v6.js"></script>
         <script src="http://d3js.org/topojson.v1.min.js"></script>
         <script src="js/map.js"></script>
       </div>
       </div>
-    </div>
-    </div>
+  
      
 
 
@@ -125,10 +135,10 @@
       <script src="js/piechart.js"></script>
     </div>
 
-
-    <div>
-    <font size="-2">Both Electricity Consumptions and Greenhouse Gas Emissions data is logged value</font>
-    </div>
+    <div class="note">
+      <font size="-2">Both Electricity Consumptions and Greenhouse Gas Emissions data is logged value</font>
+      </div>
+    
 
     <div class="row">
       <div class="col container-fluid p-5 bg-primary  text-white">
