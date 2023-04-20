@@ -1,0 +1,373 @@
+Energy_Type,Country,2019,2020
+total,World,25743.66282,25608.19708
+total,Algeria,76.685,72.78991277
+total,Argentina,132.4658624,138.0198813
+total,Australia,249.5945858,250.6580269
+total,Austria,68.8020788,68.100601
+total,Azerbaijan,24.60663,24.37044
+total,Bahrain,31.44425,29.85563729
+total,Bangladesh,79.600877,75.47871973
+total,Belarus,37.7155,36.0619
+total,Belgium,89.9314609,85.701887
+total,Bosnia and Herzegovina,16.65445,15.69052
+total,Brazil,601.4435827,603.1553
+total,Bulgaria,38.9149512,35.7841652
+total,Canada,627.8128689,623.9858667
+total,Chile,81.2601503,80.8660861
+total,China,7151.198599,7462.987888
+total,Colombia,78.1495599,75.7309512
+total,Croatia,12.2922931,12.8324588
+total,Cuba,19.52646,18.51044841
+total,Czech Republic,79.1107549,73.9507328
+total,Denmark,29.8828185,28.9196916
+total,Dominican Republic,18.90698,17.12284644
+total,Ecuador,32.47643,32.13185
+total,Egypt,182.98812,157.97
+total,Estonia,6.8665502,5.8752408
+total,Finland,67.0671163,67.5709779
+total,France,544.3273038,506.4986227
+total,Germany,578.1760987,545.5231373
+total,Greece,45.7982992,43.0839083
+total,Hong Kong,34.712,33.1059
+total,Hungary,32.5659378,33.3204209
+total,Iceland,19.119793,18.778694
+total,India,1536.611495,1506.447594
+total,Indonesia,280.13907,272.9434
+total,Iran,317.75639,304.3216
+total,Iraq,90.81454,85.6989437
+total,Ireland,30.1220272,31.2904099
+total,Israel,67.9665,68.61012
+total,Italy,264.3555922,273.0329509
+total,Japan,986.6690624,942.2344357
+total,Jordan,19.4744,18.877
+total,Kazakhstan,102.30696,97.83743687
+total,Kuwait,70.50336,66.94220184
+total,Kyrgyzstan,14.84014,16.174
+total,Lebanon,20.03462,19.37706559
+total,Libya,31.69634,30.09492439
+total,Malaysia,162.836,145.1926513
+total,Mexico,318.0778573,325.5056802
+total,Morocco,37.077883,35.36462039
+total,Mozambique,17.9871,17.80412088
+total,Netherlands,119.0127664,120.0576141
+total,New Zealand,43.86866993,43.24423618
+total,Nigeria,29.32448,28.15430793
+total,North Korea,16.07632,14.50456662
+total,Norway,131.9557672,153.9079342
+total,Oman,36.03702,34.21603977
+total,Pakistan,120.39552,117.082
+total,Paraguay,48.93659,49.34192
+total,Peru,55.46937,52.41496392
+total,Philippines,100.92099,97.46
+total,Poland,149.1705333,144.4291258
+total,Portugal,50.6305724,50.7589174
+total,Puerto Rico,17.70314,17.59771
+total,Qatar,46.888984,44.51980478
+total,Romania,54.857559,51.6451741
+total,Russia,1060.40342,1026.65506
+total,Saudi Arabia,362.4365,344.2093776
+total,Serbia,33.5809988,34.3450182
+total,Singapore,51.31338,50.31612
+total,Slovakia,26.2784132,26.5198628
+total,Slovenia,14.9967828,15.9986798
+total,South Africa,231.50374,218.232991
+total,South Korea,555.5580353,553.8690845
+total,Spain,261.8728532,251.1610323
+total,Sri Lanka,15.32842,15.19995626
+total,Sweden,165.646854,158.8517017
+total,Switzerland,65.2865348,66.0905137
+total,Syria,17.10508,15.80548854
+total,Taiwan,270.203504,276.0353654
+total,Tajikistan,20.39389,18.62
+total,Thailand,181.19062,176.69888
+total,Tunisia,20.53718,19.53991591
+total,Turkey,296.9360804,324.8134043
+total,Turkmenistan,21.1823,20.11153732
+total,Ukraine,143.83374,138.97782
+total,United Arab Emirates,129.409,124.8408891
+total,United Kingdom,313.5442484,303.4642607
+total,United States,4162.812661,4048.657847
+total,Uruguay,15.80266,12.89493127
+total,Uzbekistan,60.151687,57.84066723
+total,Venezuela,105.40402,103.7218021
+total,Vietnam,214.07644,206.3482608
+total,Zambia,15.999165,15.982285
+nuclear,World,2673.400858,2591.356399
+nuclear,Algeria,0,0
+nuclear,Argentina,7.9694683,10.0644147
+nuclear,Australia,0,0
+nuclear,Austria,0,0
+nuclear,Azerbaijan,0,0
+nuclear,Bahrain,0,0
+nuclear,Bangladesh,0,0
+nuclear,Belarus,0,0.338
+nuclear,Belgium,41.3056,32.6058
+nuclear,Bosnia and Herzegovina,0,0
+nuclear,Brazil,15.1610946,13.2094422
+nuclear,Bulgaria,15.7124461,15.7872682
+nuclear,Canada,95.4690001,92.6516066
+nuclear,Chile,0,0
+nuclear,China,348.35,366.25
+nuclear,Colombia,0,0
+nuclear,Croatia,0,0
+nuclear,Cuba,0,0
+nuclear,Czech Republic,28.5793509,28.369685
+nuclear,Denmark,0,0
+nuclear,Dominican Republic,0,0
+nuclear,Ecuador,0,0
+nuclear,Egypt,0,0
+nuclear,Estonia,0,0
+nuclear,Finland,22.9149999,22.3540001
+nuclear,France,379.4640001,335.4142381
+nuclear,Germany,70.9920001,60.9139999
+nuclear,Greece,0,0
+nuclear,Hong Kong,0,0
+nuclear,Hungary,15.402,15.172
+nuclear,Iceland,0,0
+nuclear,India,42.4494011,42.0632123
+nuclear,Indonesia,0,0
+nuclear,Iran,5.866,5.792
+nuclear,Iraq,0,0
+nuclear,Ireland,0,0
+nuclear,Israel,0,0
+nuclear,Italy,0,0
+nuclear,Japan,63.8787884,41.8631392
+nuclear,Jordan,0,0
+nuclear,Kazakhstan,0,0
+nuclear,Kuwait,0,0
+nuclear,Kyrgyzstan,0,0
+nuclear,Lebanon,0,0
+nuclear,Libya,0,0
+nuclear,Malaysia,0,0
+nuclear,Mexico,10.8810001,10.8663478
+nuclear,Morocco,0,0
+nuclear,Mozambique,0,0
+nuclear,Netherlands,3.700299,3.864924
+nuclear,New Zealand,0,0
+nuclear,Nigeria,0,0
+nuclear,North Korea,0,0
+nuclear,Norway,0,0
+nuclear,Oman,0,0
+nuclear,Pakistan,9.066,9.64
+nuclear,Paraguay,0,0
+nuclear,Peru,0,0
+nuclear,Philippines,0,0
+nuclear,Poland,0,0
+nuclear,Portugal,0,0
+nuclear,Puerto Rico,0,0
+nuclear,Qatar,0,0
+nuclear,Romania,10.3454399,10.5567029
+nuclear,Russia,195.535,215.745
+nuclear,Saudi Arabia,0,0
+nuclear,Serbia,0,0
+nuclear,Singapore,0,0
+nuclear,Slovakia,14.168,14.2810001
+nuclear,Slovenia,5.5329814,6.0408459
+nuclear,South Africa,13.603,11.616
+nuclear,South Korea,138.6792038,152.583936
+nuclear,Spain,55.8239999,55.7570001
+nuclear,Sri Lanka,0,0
+nuclear,Sweden,64.3339999,47.2626974
+nuclear,Switzerland,25.28,22.9900001
+nuclear,Syria,0,0
+nuclear,Taiwan,32.323432,31.44024503
+nuclear,Tajikistan,0,0
+nuclear,Thailand,0,0
+nuclear,Tunisia,0,0
+nuclear,Turkey,0,0
+nuclear,Turkmenistan,0,0
+nuclear,Ukraine,78.144,76.202
+nuclear,United Arab Emirates,0,1.562
+nuclear,United Kingdom,51.0320901,45.6680299
+nuclear,United States,809.409262,789.878863
+nuclear,Uruguay,0,0
+nuclear,Uzbekistan,0,0
+nuclear,Venezuela,0,0
+nuclear,Vietnam,0,0
+nuclear,Zambia,0,0
+fossil_fuels,World,16098.68209,15648.22572
+fossil_fuels,Algeria,75.848,72.01491277
+fossil_fuels,Argentina,89.9687632,91.118163
+fossil_fuels,Australia,196.1899926,186.7484347
+fossil_fuels,Austria,15.525684,13.1802657
+fossil_fuels,Azerbaijan,22.71228,22.96044
+fossil_fuels,Bahrain,31.435,29.84638729
+fossil_fuels,Bangladesh,78.402,74.43984273
+fossil_fuels,Belarus,36.67598,34.5309
+fossil_fuels,Belgium,28.2885609,28.9475459
+fossil_fuels,Bosnia and Herzegovina,10.36726,10.81752
+fossil_fuels,Brazil,88.6869093,78.9670078
+fossil_fuels,Bulgaria,16.9335501,13.7215124
+fossil_fuels,Canada,109.0238685,100.3356311
+fossil_fuels,Chile,43.4873463,41.3734488
+fossil_fuels,China,4802.383276,4926.036507
+fossil_fuels,Colombia,23.4070763,26.3560402
+fossil_fuels,Croatia,3.9686133,4.3376589
+fossil_fuels,Cuba,18.62046,17.67944841
+fossil_fuels,Czech Republic,40.7853319,35.5644289
+fossil_fuels,Denmark,6.0104994,4.8797108
+fossil_fuels,Dominican Republic,16.84198,15.99084644
+fossil_fuels,Ecuador,7.47908,6.75585
+fossil_fuels,Egypt,165.43812,140.08
+fossil_fuels,Estonia,4.6600503,3.3329721
+fossil_fuels,Finland,11.9366382,9.2898278
+fossil_fuels,France,50.4751223,45.4579358
+fossil_fuels,Germany,264.1422421,232.8862875
+fossil_fuels,Greece,29.4856253,25.0872158
+fossil_fuels,Hong Kong,34.587,32.9799
+fossil_fuels,Hungary,12.1649381,12.281421
+fossil_fuels,Iceland,0.002661,0.0030668
+fossil_fuels,India,1180.970059,1137.180433
+fossil_fuels,Indonesia,231.07268,224.5754
+fossil_fuels,Iran,280.80714,269.8176
+fossil_fuels,Iraq,88.30454,83.8419437
+fossil_fuels,Ireland,18.2712922,17.7947102
+fossil_fuels,Israel,64.6673,64.20012
+fossil_fuels,Italy,168.0210014,154.6275989
+fossil_fuels,Japan,741.8437459,724.9216559
+fossil_fuels,Jordan,16.4594,15.768
+fossil_fuels,Kazakhstan,90.92338,86.32843687
+fossil_fuels,Kuwait,70.44736,66.88720184
+fossil_fuels,Kyrgyzstan,1.13458,1.374
+fossil_fuels,Lebanon,19.24462,18.27206559
+fossil_fuels,Libya,31.68834,30.08692439
+fossil_fuels,Malaysia,133.752,126.9926513
+fossil_fuels,Mexico,252.5988576,249.858747
+fossil_fuels,Morocco,30.46916,28.92935739
+fossil_fuels,Mozambique,3.6801,3.49412088
+fossil_fuels,Netherlands,90.7339033,82.4153048
+fossil_fuels,New Zealand,7.539387021,8.110432123
+fossil_fuels,Nigeria,23.15502,21.98484793
+fossil_fuels,North Korea,2.40922,2.287466619
+fossil_fuels,Norway,2.6930583,2.138668
+fossil_fuels,Oman,36.03302,34.21203977
+fossil_fuels,Pakistan,70.69552,64.662
+fossil_fuels,Paraguay,0.00188,0.00192
+fossil_fuels,Peru,21.27408,20.19896392
+fossil_fuels,Philippines,78.95624,75.629
+fossil_fuels,Poland,124.3702605,116.5150676
+fossil_fuels,Portugal,23.6342803,20.9524256
+fossil_fuels,Puerto Rico,16.8,16.688
+fossil_fuels,Qatar,46.88062,44.51144078
+fossil_fuels,Romania,20.0745332,16.7553033
+fossil_fuels,Russia,668.43118,609.96506
+fossil_fuels,Saudi Arabia,361.9987,343.7045776
+fossil_fuels,Serbia,23.4240657,24.4386313
+fossil_fuels,Singapore,49.46938,48.54912
+fossil_fuels,Slovakia,5.5885832,5.5548627
+fossil_fuels,Slovenia,4.5345996,4.4686304
+fossil_fuels,South Africa,208.41774,197.57296
+fossil_fuels,South Korea,387.5087252,364.2636725
+fossil_fuels,Spain,107.2766033,84.2270325
+fossil_fuels,Sri Lanka,10.23942,9.721956257
+fossil_fuels,Sweden,1.6250239,0.7047315
+fossil_fuels,Switzerland,0.604944,0.6072445
+fossil_fuels,Syria,15.82208,15.02248854
+fossil_fuels,Taiwan,223.4025645,230.2213012
+fossil_fuels,Tajikistan,1.41658,1.62
+fossil_fuels,Thailand,147.51796,147.15888
+fossil_fuels,Tunisia,19.72684,18.72991591
+fossil_fuels,Turkey,166.1924564,200.7281454
+fossil_fuels,Turkmenistan,21.182,20.11153732
+fossil_fuels,Ukraine,54.30944,51.26102
+fossil_fuels,United Arab Emirates,125.852,119.4918891
+fossil_fuels,United Kingdom,138.9076502,118.0243245
+fossil_fuels,United States,2581.702822,2426.719259
+fossil_fuels,Uruguay,0.27166,0.2579312731
+fossil_fuels,Uzbekistan,53.64486,50.93384023
+fossil_fuels,Venezuela,33.30702,31.62380208
+fossil_fuels,Vietnam,153.71444,145.9462608
+fossil_fuels,Zambia,2.13286,2.08398
+renewable,World,7008.542438,7406.292825
+renewable,Algeria,0.837,0.775
+renewable,Argentina,34.7236309,36.9763636
+renewable,Australia,53.6605932,64.1678894
+renewable,Austria,54.7633948,56.3767453
+renewable,Azerbaijan,1.89435,1.41
+renewable,Bahrain,0.00925,0.00925
+renewable,Bangladesh,1.198877,1.038877
+renewable,Belarus,1.03952,1.193
+renewable,Belgium,20.6203,24.4967003
+renewable,Bosnia and Herzegovina,6.31219,4.898
+renewable,Brazil,497.5955788,510.97885
+renewable,Bulgaria,6.465955,6.4753846
+renewable,Canada,423.4190003,431.099947
+renewable,Chile,37.772804,39.4926373
+renewable,China,2011.212323,2182.078382
+renewable,Colombia,54.7424836,49.374911
+renewable,Croatia,8.3686798,8.5347999
+renewable,Cuba,0.906,0.831
+renewable,Czech Republic,10.0870721,10.4083129
+renewable,Denmark,23.8723191,24.0399808
+renewable,Dominican Republic,2.065,1.132
+renewable,Ecuador,24.99735,25.376
+renewable,Egypt,17.55,17.89
+renewable,Estonia,2.2064999,2.5422687
+renewable,Finland,32.2154782,35.92715
+renewable,France,116.1261814,127.3182018
+renewable,Germany,245.3919996,254.1450002
+renewable,Greece,16.3346568,18.0794332
+renewable,Hong Kong,0.125,0.126
+renewable,Hungary,4.9989997,5.8669999
+renewable,Iceland,19.117132,18.7756272
+renewable,India,313.1920344,327.2039483
+renewable,Indonesia,49.06639,48.368
+renewable,Iran,31.08325,28.712
+renewable,Iraq,2.51,1.857
+renewable,Ireland,12.083735,13.7399198
+renewable,Israel,3.2992,4.41
+renewable,Italy,96.9688238,119.1298619
+renewable,Japan,184.2285281,178.7932584
+renewable,Jordan,3.015,3.109
+renewable,Kazakhstan,11.38358,11.509
+renewable,Kuwait,0.056,0.055
+renewable,Kyrgyzstan,13.70556,14.8
+renewable,Lebanon,0.79,1.105
+renewable,Libya,0.008,0.008
+renewable,Malaysia,29.084,18.2
+renewable,Mexico,54.5979996,64.7805854
+renewable,Morocco,6.744723,6.535263
+renewable,Mozambique,14.307,14.31
+renewable,Netherlands,24.5785641,33.7773853
+renewable,New Zealand,36.32928291,35.13380406
+renewable,Nigeria,6.16946,6.16946
+renewable,North Korea,13.6671,12.2171
+renewable,Norway,129.640709,152.0547862
+renewable,Oman,0.004,0.004
+renewable,Pakistan,40.634,42.78
+renewable,Paraguay,48.93471,49.34
+renewable,Peru,34.19529,32.216
+renewable,Philippines,21.96475,21.831
+renewable,Poland,25.126435,28.276422
+renewable,Portugal,27.3978569,30.2438732
+renewable,Puerto Rico,0.90314,0.90971
+renewable,Qatar,0.008364,0.008364
+renewable,Romania,24.5655859,24.4331679
+renewable,Russia,197.15424,201.558
+renewable,Saudi Arabia,0.4378,0.5048
+renewable,Serbia,10.5129331,10.2063869
+renewable,Singapore,1.844,1.767
+renewable,Slovakia,6.62283,6.789
+renewable,Slovenia,4.9978298,5.5894282
+renewable,South Africa,11.052,10.675031
+renewable,South Korea,30.4993402,38.101467
+renewable,Spain,99.56925,112.3059998
+renewable,Sri Lanka,5.089,5.478
+renewable,Sweden,99.6978302,110.8983997
+renewable,Switzerland,40.6125598,43.7997561
+renewable,Syria,1.283,0.783
+renewable,Taiwan,15.25458846,15.15769921
+renewable,Tajikistan,18.97731,17
+renewable,Thailand,33.67266,29.54
+renewable,Tunisia,0.81034,0.81
+renewable,Turkey,130.743624,124.0852589
+renewable,Turkmenistan,3.00E-04,0
+renewable,Ukraine,11.8683,11.5148
+renewable,United Arab Emirates,3.557,3.787
+renewable,United Kingdom,124.208547,140.2410272
+renewable,United States,776.961321,837.3809303
+renewable,Uruguay,15.531,12.637
+renewable,Uzbekistan,6.506827,6.906827
+renewable,Venezuela,72.097,72.098
+renewable,Vietnam,60.362,60.402
+renewable,Zambia,13.866305,13.898305
